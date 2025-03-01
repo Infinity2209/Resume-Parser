@@ -1,0 +1,14 @@
+John Doe
+Email: john.doe@example.com
+LinkedIn: linkedin.com/in/johndoe
+
+Skills:
+- JavaScript
+- React
+- Node.js
+
+Experience:
+- Software Engineer at XYZ Corp
+
+Education:
+- B.S. in Computer Science
